@@ -1,0 +1,28 @@
+{
+  "name": "route-b",
+  "version": "0.1.0",
+  "description": "Library for routing by files and methods",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chuhaienko/route-b.git"
+  },
+  "keywords": [
+    "routing",
+    "routing",
+    "by",
+    "files"
+  ],
+  "author": "Yurii Chuhaienko",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/chuhaienko/route-b/issues"
+  },
+  "homepage": "https://github.com/chuhaienko/route-b#readme",
+  "dependencies": {
+    "lodash": "^4.13.1"
+  }
+}
