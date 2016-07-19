@@ -1,6 +1,6 @@
 {
   "name": "route-b",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Library for routing by files and methods",
   "main": "index.js",
   "scripts": {
